@@ -1,2 +1,6 @@
 Welcome to delhi
 Welcome to gadhi
+Welcome to aws
+Welcome to azure
+Welcome to gcp
+Welcome to speaker
